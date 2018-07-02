@@ -4,7 +4,7 @@ require 'rails/generators/active_record'
 
 module ContactInfo
   # rails generate contact_info:install
-  class InstallGenerator < ::Rails::Generators::Base
+  class InstallGenerator < Rails::Generators::Base
     include Rails::Generators::Migration
 
     def self.next_migration_number(path)
