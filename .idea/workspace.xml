@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92960f3f-a793-4c54-ae42-cd602ca0279d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/db/schema.rb" afterDir="false" />
@@ -30,10 +31,10 @@
         </entry>
       </file>
       <file leaf-file-name="install_generator.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
+        <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -53,7 +54,7 @@
         </entry>
       </file>
       <file leaf-file-name="create_contact_info.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/generators/install/templates/migrations/create_contact_info.rb">
+        <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/templates/migrations/create_contact_info.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
               <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
@@ -82,6 +83,7 @@
         <option value="$PROJECT_DIR$/lib/generators/install/templates/migrations/create_contact_info.rb" />
         <option value="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile" />
         <option value="$PROJECT_DIR$/lib/generators/install/install_generator.rb" />
+        <option value="$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb" />
       </list>
     </option>
   </component>
@@ -129,6 +131,14 @@
               <item name="contact_info" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
               <item name="install" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,8 +146,19 @@
               <item name="contact_info" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
               <item name="install" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="install" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,6 +174,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.settings.patched" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/generators/contact_info" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,17 +304,18 @@
       <updated>1530529168176</updated>
       <workItem from="1530529170161" duration="638000" />
       <workItem from="1530529861968" duration="3000" />
-      <workItem from="1530529922623" duration="1062000" />
+      <workItem from="1530529922623" duration="1203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1703000" />
+    <option name="totallyTimeSpent" value="1844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="3000" height="1973" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25721154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25721154" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -297,7 +324,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32985258" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32539186" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32539186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,14 +354,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="61" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/templates/migrations/create_contact_info.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/templates/migrations/create_contact_info.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
@@ -351,14 +378,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="61" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/templates/migrations/create_contact_info.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/templates/migrations/create_contact_info.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
@@ -392,17 +419,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/templates/migrations/create_contact_info.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/templates/migrations/create_contact_info.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/contact_info/install/install_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
