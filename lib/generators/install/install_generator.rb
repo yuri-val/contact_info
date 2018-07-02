@@ -1,4 +1,4 @@
-module Contactinfo
+module ContactInfo
   class InstallGenerator < Rails::Generators::NamedBase
     include Rails::Generators::Migration
 
