@@ -4,7 +4,7 @@ require 'rails/generators/active_record'
 
 module ContactInfo
   module Generators
-    # rails generate crono:install
+    # rails generate contact_info:install
     class InstallGenerator < ::Rails::Generators::Base
       include Rails::Generators::Migration
 
