@@ -25,5 +25,3 @@ class InstallGenerator < Rails::Generators::NamedBase
     end
   end
 end
-
-end
