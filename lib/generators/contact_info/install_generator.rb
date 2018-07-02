@@ -1,4 +1,6 @@
-require 'rails/generators/base'
+require 'rails/generators'
+require 'rails/generators/migration'
+require 'rails/generators/active_record'
 
 module ContactInfo
   module Generators
@@ -13,7 +15,7 @@ module ContactInfo
       source_root File.expand_path('../templates', __FILE__)
 
       def create_migrations
-        migration_template 'migrations/create_contact_info.rb',
+        migration_template 'migrations/create_contact_info.rb.erb',
                            'db/migrate/create_contact_info.rb',
                            migration_version: migration_version
       end
