@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92960f3f-a793-4c54-ae42-cd602ca0279d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/contact_info.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/contact_info.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/generators/install/install_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generators/install/install_generator.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rails-vue-demo-app/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../rails-vue-demo-app/db/schema.rb" afterDir="false" />
@@ -37,8 +32,8 @@
       <file leaf-file-name="install_generator.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="174">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -122,6 +117,27 @@
               <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
               <item name="contact_info" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="install" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_info" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_info" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="install" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,16 +278,15 @@
       <updated>1530529168176</updated>
       <workItem from="1530529170161" duration="638000" />
       <workItem from="1530529861968" duration="3000" />
-      <workItem from="1530529922623" duration="737000" />
+      <workItem from="1530529922623" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1378000" />
+    <option name="totallyTimeSpent" value="1703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="3000" height="1973" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25721154" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -386,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/generators/install/install_generator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="174">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
